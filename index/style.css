@@ -11,7 +11,9 @@
   flex-wrap: column wrap;
 }
 
-.post {
-  border: 2px;
+.postSettings {
+  border-style: double;
   border-color: black;
+  padding: 5px;
+  width: 100%;
 }
